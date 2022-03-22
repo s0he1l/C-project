@@ -1,0 +1,36 @@
+S:\c# project\Bird Chicken\Bird Chicken\bin\Debug\Bird Chicken.exe.config
+S:\c# project\Bird Chicken\Bird Chicken\bin\Debug\Bird Chicken.exe
+S:\c# project\Bird Chicken\Bird Chicken\bin\Debug\Bird Chicken.pdb
+S:\c# project\Bird Chicken\Bird Chicken\obj\Debug\Bird_Chicken.Form1.resources
+S:\c# project\Bird Chicken\Bird Chicken\obj\Debug\Bird_Chicken.Properties.Resources.resources
+S:\c# project\Bird Chicken\Bird Chicken\obj\Debug\Bird Chicken.csproj.GenerateResource.Cache
+S:\c# project\Bird Chicken\Bird Chicken\obj\Debug\Bird Chicken.exe
+S:\c# project\Bird Chicken\Bird Chicken\obj\Debug\Bird Chicken.pdb
+S:\c# project\Bird Chicken\Bird Chicken\obj\Debug\Bird Chicken.csprojResolveAssemblyReference.cache
+S:\c# project\Bird Chicken\Bird Chicken\obj\Debug\Bird_Chicken.Form2.resources
+S:\c# project\Bird Chicken\Bird Chicken\obj\Debug\Bird_Chicken.Helpform.resources
+S:\c# project\Bird Chicken\Bird Chicken\obj\Debug\Bird_Chicken.StartForm.resources
+E:\Bird Chicken\Bird Chicken\bin\Debug\Bird Chicken.exe.config
+E:\Bird Chicken\Bird Chicken\obj\Debug\Bird Chicken.exe
+E:\Bird Chicken\Bird Chicken\obj\Debug\Bird Chicken.pdb
+E:\Bird Chicken\Bird Chicken\bin\Debug\Bird Chicken.exe
+E:\Bird Chicken\Bird Chicken\bin\Debug\Bird Chicken.pdb
+E:\Bird Chicken\Bird Chicken\obj\Debug\Bird Chicken.csprojResolveAssemblyReference.cache
+E:\Bird Chicken\Bird Chicken\obj\Debug\Bird_Chicken.Form1.resources
+E:\Bird Chicken\Bird Chicken\obj\Debug\Bird_Chicken.Helpform.resources
+E:\Bird Chicken\Bird Chicken\obj\Debug\Bird_Chicken.Properties.Resources.resources
+E:\Bird Chicken\Bird Chicken\obj\Debug\Bird Chicken.csproj.GenerateResource.Cache
+E:\Bird Chicken\Bird Chicken\obj\Debug\Bird_Chicken.formStart.resources
+C:\Users\Soheil Maarefi\Desktop\Bird Chicken\Bird Chicken\bin\Debug\Bird Chicken.exe.config
+C:\Users\Soheil Maarefi\Desktop\Bird Chicken\Bird Chicken\obj\Debug\Bird Chicken.exe
+C:\Users\Soheil Maarefi\Desktop\Bird Chicken\Bird Chicken\obj\Debug\Bird Chicken.pdb
+C:\Users\Soheil Maarefi\Desktop\Bird Chicken\Bird Chicken\bin\Debug\Bird Chicken.exe
+C:\Users\Soheil Maarefi\Desktop\Bird Chicken\Bird Chicken\bin\Debug\Bird Chicken.pdb
+C:\Users\Soheil Maarefi\Desktop\Bird Chicken\Bird Chicken\obj\Debug\Bird_Chicken.Form1.resources
+C:\Users\Soheil Maarefi\Desktop\Bird Chicken\Bird Chicken\obj\Debug\Bird_Chicken.formStart.resources
+C:\Users\Soheil Maarefi\Desktop\Bird Chicken\Bird Chicken\obj\Debug\Bird_Chicken.Helpform.resources
+C:\Users\Soheil Maarefi\Desktop\Bird Chicken\Bird Chicken\obj\Debug\Bird_Chicken.Properties.Resources.resources
+C:\Users\Soheil Maarefi\Desktop\Bird Chicken\Bird Chicken\obj\Debug\Bird Chicken.csproj.GenerateResource.Cache
+C:\Users\Soheil Maarefi\Desktop\Bird Chicken\Bird Chicken\obj\Debug\Bird Chicken.csproj.AssemblyReference.cache
+C:\Users\Soheil Maarefi\Desktop\Bird Chicken\Bird Chicken\obj\Debug\Bird Chicken.csproj.SuggestedBindingRedirects.cache
+C:\Users\Soheil Maarefi\Desktop\Bird Chicken\Bird Chicken\obj\Debug\Bird Chicken.csproj.CoreCompileInputs.cache
